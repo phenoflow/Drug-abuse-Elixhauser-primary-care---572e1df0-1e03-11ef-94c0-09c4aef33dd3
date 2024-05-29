@@ -1,0 +1,147 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-therapy---primary.py
+inputModule3:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-misuser---primary.py
+inputModule4:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-monitoring---primary.py
+inputModule5:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-sniffing---primary.py
+inputModule6:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-addiction---primary.py
+inputModule7:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-remission---primary.py
+inputModule8:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-place---primary.py
+inputModule9:
+  class: File
+  path: python/episodic-drug-abuse-elixhauser-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/opioid-drug-abuse-elixhauser-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/sedative-drug-abuse-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/behavioural-drug-abuse-elixhauser-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-specified---primary.py
+inputModule14:
+  class: File
+  path: python/personal-drug-abuse-elixhauser-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-cannabis---primary.py
+inputModule16:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-detoxification---primary.py
+inputModule17:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-barbiturate---primary.py
+inputModule18:
+  class: File
+  path: python/laxative-drug-abuse-elixhauser-primary-care---primary.py
+inputModule19:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-hallucinatory---primary.py
+inputModule20:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-hallucinogens---primary.py
+inputModule21:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-puerperium---primary.py
+inputModule22:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-antidepressant---primary.py
+inputModule23:
+  class: File
+  path: python/mixed-drug-abuse-elixhauser-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-delirium---primary.py
+inputModule25:
+  class: File
+  path: python/continuous-drug-abuse-elixhauser-primary-care---primary.py
+inputModule26:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-tranquilliser---primary.py
+inputModule27:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-excluding---primary.py
+inputModule29:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-shared---primary.py
+inputModule30:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-stopped---primary.py
+inputModule31:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-benzodiazepine---primary.py
+inputModule32:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-counselling---primary.py
+inputModule33:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-dependence---primary.py
+inputModule34:
+  class: File
+  path: python/referral-drug-abuse-elixhauser-primary-care---primary.py
+inputModule35:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-cocaine---primary.py
+inputModule36:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-combined---primary.py
+inputModule37:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-ecstasy---primary.py
+inputModule38:
+  class: File
+  path: python/clinical-drug-abuse-elixhauser-primary-care---primary.py
+inputModule39:
+  class: File
+  path: python/other-drug-abuse-elixhauser-primary-care---primary.py
+inputModule40:
+  class: File
+  path: python/nondependent-drug-abuse-elixhauser-primary-care---primary.py
+inputModule41:
+  class: File
+  path: python/drug---primary.py
+inputModule42:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-state---primary.py
+inputModule43:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-paranoia---primary.py
+inputModule44:
+  class: File
+  path: python/acute-drug-abuse-elixhauser-primary-care---primary.py
+inputModule45:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-delivered---primary.py
+inputModule46:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-substance---primary.py
+inputModule47:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-alcohol---primary.py
+inputModule48:
+  class: File
+  path: python/drug-abuse-elixhauser-primary-care-pregnancy---primary.py
+inputModule49:
+  class: File
+  path: python/output-cases.py
